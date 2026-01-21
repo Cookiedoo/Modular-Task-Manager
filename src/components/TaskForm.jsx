@@ -22,8 +22,8 @@ function TaskForm({ onAdd }) {
             />
             <input
               type="date"
-              value={text}
-              onChange={e => setText(e.target.value)}
+              value={dueDate}
+              onChange={e => setDueDate(e.target.value)}
               />
               <button type= "submit">Add</button>
         </form>
