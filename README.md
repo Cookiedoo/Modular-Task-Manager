@@ -1,3 +1,2 @@
 # Modular-Task-Manager
-A modular task manager built through React
-1af0b9f5e1e26de32761fd22a38ed34dbb383ac0
+A Modular Task manager with a dark/light mode option, a recurring task option, a completion bar, and priority task selection
